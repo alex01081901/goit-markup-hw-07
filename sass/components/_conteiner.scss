@@ -18,8 +18,8 @@ $desktop: 1200;
    }
 
    //deskrop screen
-   @media screen (min-width: 1200px) {
+   @media screen and (min-width: 1200px) {
     width: 1200px;
    }
-   
+
 }
